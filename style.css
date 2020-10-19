@@ -135,13 +135,6 @@ div.tabs_list ul li ul.children li li a { border:0; padding:4px 0 4px 30px; disp
 /*=== Styling Forms ===*/
 input.btn { background:none; border:0; margin:0; padding:0; }
 select { padding:1px; }
-/*------- article ----*/
-.page-container {width: 100%;}
-/*cp*/
-.global-container {
-	min-height: 100%; 
-	position: relative; 
-	margin:0 auto;}
 /*- Message -*/
 .message div { margin:0 0 18px; }
 .message input { padding:9px 15px; width:440px; }
